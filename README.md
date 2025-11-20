@@ -5,11 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jammarkeun" alt="jammarkeun" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I'm currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jammarkeun.github.io/John-Mark-Cabuhat-Portfolio/](https://jammarkeun.github.io/John-Mark-Cabuhat-Portfolio/)
 
 - 📫 How to reach me **cabuhatjohnmark34@gmail.com**
+
+<h2>📜 Certificates</h2>
+<div align="center">
+  
+  <!-- Add your certificates here -->
+  <a href="file:///C:/Users/JM/Downloads/PythonEssentials1Update20251114-31-jkpp95.pdf">
+    <img src="file:///C:/Users/JM/Downloads/PythonEssentials1Update20251114-31-jkpp95.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
+  </a>
+  <a href="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf">
+    <img src="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf" alt="Certificate 2" width="200" style="margin: 10px;">
+  </a>
+  <!-- Add more certificates as needed -->
+  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jammarkeun&show_icons=true&locale=en" alt="jammarkeun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jammarkeun&" alt="jammarkeun" /></p>
-
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnmark.dungcacabuhat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmrkkn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wadey_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cabuhatjohnmark34@gmail.com) 
