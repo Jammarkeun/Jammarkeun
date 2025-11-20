@@ -15,8 +15,8 @@
 <div align="center">
   
   <!-- Add your certificates here -->
-  <a href="file:///C:/Users/JM/Downloads/PythonEssentials1Update20251114-31-jkpp95.pdf">
-    <img src="file:///C:/Users/JM/Downloads/PythonEssentials1Update20251114-31-jkpp95.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
+  <a href="PythonEssentials1Update20251114-31-jkpp95.pdf">
+    <img src="PythonEssentials1Update20251114-31-jkpp95.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
   </a>
   <a href="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf">
     <img src="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf" alt="Certificate 2" width="200" style="margin: 10px;">
