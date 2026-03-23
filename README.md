@@ -21,7 +21,7 @@
   <a href="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf">
     <img src="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf" alt="Certificate 2" width="200" style="margin: 10px;">
   </a>
-  <a href=0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf">
+  <a href="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf">
     <img src="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf" alt="Certificate 3" width="200" style="margin: 10px;">
   </a>
   <!-- Add more certificates as needed -->
