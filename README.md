@@ -30,6 +30,9 @@
   <a href="John Mark D. Cabuhat_signed.pdf">
     <img src="data-sec.png" alt="Certificate 5" width="200" style="margin: 10px;">
   </a>
+  <a href="c180f688-59f9-484c-8085-f1da60f4ed36.pdf">
+    <img src="amazon-q.png" alt="Certificate 6" width="200" style="margin: 10px;">
+  </a>
   
   <!-- Add more certificates as needed -->
   
