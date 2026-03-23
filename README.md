@@ -16,16 +16,16 @@
   
   <!-- Add your certificates here -->
   <a href="PythonEssentials1Update20251114-31-jkpp95.pdf">
-    <img src="PythonEssentials1Update20251114-31-jkpp95.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
+    <img src="pythonEssentials.png" alt="Certificate 1" width="200" style="margin: 10px;">
   </a>
-  <a href="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf">
-    <img src="file:///C:/Users/JM/Downloads/Python_Essentials_1_certificate_cabuhatjohnmark34-gmail-com_0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf" alt="Certificate 2" width="200" style="margin: 10px;">
+  <a href="0d6bd40e-9b4d-45da-bbaf-cd2793668a10.pdf">
+    <img src="cisco.png" alt="Certificate 2" width="200" style="margin: 10px;">
   </a>
   <a href="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf">
-    <img src="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf" alt="Certificate 3" width="200" style="margin: 10px;">
+    <img src="aws-qloud.png" alt="Certificate 3" width="200" style="margin: 10px;">
   </a>
   <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
-    <img src="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
+    <img src="data-engineer.png" alt="Certificate 1" width="200" style="margin: 10px;">
   </a>
   <!-- Add more certificates as needed -->
   
