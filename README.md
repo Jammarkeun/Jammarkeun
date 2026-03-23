@@ -24,6 +24,9 @@
   <a href="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf">
     <img src="0294b19f-f5c3-4ee7-89f5-3e44e2846ee3.pdf" alt="Certificate 3" width="200" style="margin: 10px;">
   </a>
+  <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
+    <img src="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf" alt="Certificate 1" width="200" style="margin: 10px;">
+  </a>
   <!-- Add more certificates as needed -->
   
 </div>
