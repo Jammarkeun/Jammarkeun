@@ -33,6 +33,9 @@
   <a href="c180f688-59f9-484c-8085-f1da60f4ed36.pdf">
     <img src="amazon-q.png" alt="Certificate 6" width="200" style="margin: 10px;">
   </a>
+  <a href="7236ad83-90e8-4341-b46c-f500a9cc8e8e.pdf">
+    <img src="amazon_q.png" alt="Certificate 7" width="200" style="margin: 10px;">
+  </a>
   
   <!-- Add more certificates as needed -->
   
