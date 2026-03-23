@@ -27,6 +27,10 @@
   <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
     <img src="data-engineer.png" alt="Certificate 1" width="200" style="margin: 10px;">
   </a>
+  <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
+    <img src="data-engineer.png" alt="Certificate 1" width="200" style="margin: 10px;">
+  </a>
+  
   <!-- Add more certificates as needed -->
   
 </div>
