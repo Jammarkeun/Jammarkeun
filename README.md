@@ -25,10 +25,10 @@
     <img src="aws-qloud.png" alt="Certificate 3" width="200" style="margin: 10px;">
   </a>
   <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
-    <img src="data-engineer.png" alt="Certificate 1" width="200" style="margin: 10px;">
+    <img src="data-engineer.png" alt="Certificate 5" width="200" style="margin: 10px;">
   </a>
-  <a href="18e9e6ba-a8e1-419a-ae67-52aa811f0498.pdf">
-    <img src="data-engineer.png" alt="Certificate 1" width="200" style="margin: 10px;">
+  <a href="John Mark D. Cabuhat_signed.pdf">
+    <img src="data-sec.png" alt="Certificate 5" width="200" style="margin: 10px;">
   </a>
   
   <!-- Add more certificates as needed -->
