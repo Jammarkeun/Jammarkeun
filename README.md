@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm John Mark</h1>
-<h3>A passionate frontend developer from Philippines</h3>
+<h3>A Cutiepatutie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jammarkeun&label=Profile%20views&color=0e75b6&style=flat" alt="jammarkeun" /> </p>
 
